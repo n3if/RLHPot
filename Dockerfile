@@ -44,5 +44,5 @@ RUN chown -R kipporl:kipporl /usr/include/mysql/
 USER kipporl
 # RUN mkdir -p log && mkdir -p log/tty
 # run qrassh as user kipporl
-RUN start.sh
+CMD ["src/start.sh"] 
 CMD ["tail", "-f", "/dev/null"]
