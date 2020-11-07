@@ -1,0 +1,14 @@
+mysqlclient
+scipy
+pybrain
+pycrypto
+matplotlib
+twisted==15.1.0 #15.1.0 stated in kippo dev github
+pyasn1
+#pyasn1-modules
+cryptography==2.8
+#ipaddress
+#pyopenssl #==18.0.0
+#attrs
+#bcrypt
+#service_identity
