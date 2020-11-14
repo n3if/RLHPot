@@ -1,4 +1,4 @@
-# RLHPot
+# (currently not working due to a Kippo error) - RLHPot
 
 An adaptive honeypot using a reinforcement learning implementation, to learn from interactions from automated malware attacks
 
